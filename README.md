@@ -1,8 +1,13 @@
+
+## PROJECT TITLE; Customer Segmentation For a Subscription Service.
+---
+
 ### PROJECT OVERVIEW
 ---
 This project collects and analyses data from various regions. The goal is to provide clarity on customer behavior, to track subscription types and identify key trends in cancellations and renewls.
 
 ### Data Collected.
+---
 The data collected includes the following key columns;
  - Region; The geograhpical location the store.
  - Customer Name; Names of customers that patronize each store.
