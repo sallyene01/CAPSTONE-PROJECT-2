@@ -1,6 +1,12 @@
 
 ## PROJECT TITLE; Customer Segmentation For a Subscription Service.
 ---
+- [Project Overview](#project-overview)
+- [Data Collected](#data-collected)
+- [Project Objectives](#project-objectives)
+- [Tools Used](#tools-used)
+- [Exploratory Data Analysis/ Data Analysis](#exploratory-data-analysis/-data-analysis)
+- [Visual Analysis and Inference](#visual-analysis-and-inference)
 
 ### PROJECT OVERVIEW
 ---
