@@ -25,4 +25,18 @@ This project was designed to address the following analysis goals;
  4. Customers with subscription longer than 12months
  5. Total revenue by subscription type
  6. Top 3 Region by subscription cancellation
- 7. Total number of active and canceled subscription 
+ 7. Total number of active and canceled subscription
+
+ ### Tools Used
+ ---
+ - Microsoft Excel [DownHere](https://www.microsoft.come)
+   1. For data cleaning
+   2. For data analysis
+   3. For data visualization.
+ - SQL; Structured Query Language [DownloadHere](https://www.microsoft.com)
+    For querying data
+- Power BI (DownloadHere)[https://www.microsoft.com]
+   1. For visualizing key customer segments
+   2. cancellation trends
+   3. For subscription trends
+  
