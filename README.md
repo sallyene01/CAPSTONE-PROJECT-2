@@ -46,6 +46,13 @@ This project was designed to address the following analysis goals;
    2. cancellation trends
    3. For subscription trends
 
+### Data Cleaning And Preparation
+---
+In the initial phase of data cleaning and preparation, the following actions were performed;
+  1. Data loading and inspection
+  2. Handling missing variables
+  3. Data cleaning and inspection
+
 
   ### Exploratory  Data analysis/ Data Analysis
   ---
