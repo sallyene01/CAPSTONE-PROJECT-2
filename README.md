@@ -66,3 +66,64 @@ In the initial phase of data cleaning and preparation, the following actions wer
   
 ### Visual Analysis And Inference
 ---
+
+
+
+
+![COUNT OF SUB](https://github.com/user-attachments/assets/724816f6-7d28-4398-9192-dab5acac1d5d)
+
+
+
+
+![REVENUE BY SUB](https://github.com/user-attachments/assets/6555d4e3-3ae4-41a7-8e6d-f65505453406)
+
+
+
+
+
+![SUB DURATION](https://github.com/user-attachments/assets/cbdd1480-ee47-4994-9280-ca6dd468e720)
+
+
+
+
+
+![TOP REGION BY SUB CANCELLATION](https://github.com/user-attachments/assets/444788e1-4454-4eca-8c80-ea42dea44ce7)
+
+
+
+
+
+![THOSE WHO CANCELED](https://github.com/user-attachments/assets/dac8b3dd-d967-4329-9d04-ed041d52d3dd)
+
+
+
+
+
+![TOP 3 REGIONS BY SUB CANCELLATION](https://github.com/user-attachments/assets/40e4dbfa-d83d-4c7e-b021-88fd9ec190f8)
+
+
+
+
+
+
+![POWER BI CD](https://github.com/user-attachments/assets/adf95c88-dfd9-4eea-bfec-bbf426592a5a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
